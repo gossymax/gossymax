@@ -1,7 +1,3 @@
-### 👋 Introduction
-
-Hello, I'm a 15-year-old developer from Sydney, Australia. I am the owner of the biggest Minecraft server in Australia, NightlyMC, and I have a passion for Spigot development and graphic design.
-
 ### 💻 Experience
 
 - **Spigot Development:** I have extensive experience in developing plugins for Spigot servers. I am proficient in Java programming and have developed several custom plugins for my Minecraft server.
