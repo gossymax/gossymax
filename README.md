@@ -5,5 +5,5 @@
 
 ### 📞 Contact
 
-For any business inquiries, please don't hesitate to contact me at gossymax#0001.
+Have an inqury? Create a ticket on discord.gg/nightlymc
 
